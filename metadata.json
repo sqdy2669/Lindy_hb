@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Magic Birthday Celebration",
+  "description": "An interactive birthday celebration app using gesture recognition to light candles and launch 'ACCEPT' fireworks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
