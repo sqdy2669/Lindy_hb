@@ -14,6 +14,6 @@ export async function generateBirthdayWish(name: string): Promise<string> {
     return response.text || "祝你生日快乐！愿你度过奇妙的一天！";
   } catch (error) {
     console.error("Gemini Error:", error);
-    return "祝你生日快乐！愿你梦想成真！";
+    return "生日快乐！愿你的研究早日被顶会接收，成果在领域里闪闪发光。";
   }
 }
